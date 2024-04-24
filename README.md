@@ -1,4 +1,4 @@
-<img src="https://postimg.cc/8sT3YL8m" alt="banner" width="100%" height="auto"  align="center"/>
+<img src="https://i.postimg.cc/W4yB4Drs/mybanner-genaro.png" alt="banner" width="100%" height="auto"  align="center"/>
 
 <h1 align="center">Hi 👋, I'm Genaro Arce</h1>
 <h3 align="center">I am a backend developer.</h3>
