@@ -1,5 +1,3 @@
-<img src="https://i.postimg.cc/W4yB4Drs/mybanner-genaro.png" alt="banner" width="100%" height="auto"  align="center"/>
-
 <div align="center">
 
 # Hi, I'm Genaro Arce 👋
